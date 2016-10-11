@@ -1,5 +1,5 @@
-iweidou_demo
+## iweidou
 ============
-第一个Firefox OS 应用IWeidou
+### 第一个Firefox OS 应用IWeidou
 
-My first Firefox OS app IWeidou,show a picture and some words.
+#### My first Firefox OS app IWeidou,show a picture and some words.
